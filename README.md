@@ -26,3 +26,4 @@ minecraft pocket edition
 
 vous avez aussi besoin d'un compte java de minecraft (pc)
 -----------------------------------------------------------------------------
+# open termux and write down the following command:
