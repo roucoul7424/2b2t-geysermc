@@ -1,5 +1,4 @@
 # 2b2t-geysermc
-<img src="https://1.bp.blogspot.com/-a5R7P_h1ivs/X8_EMFyoH4I/AAAAAAAAAlg/yqiLYQLcZCcfFKgaWU934hbLtrqGw-xqwCLcBGAsYHQ/w945-h600-p-k-no-nu/untitled.png"/>
 
 application needed:
 
