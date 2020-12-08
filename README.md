@@ -21,3 +21,4 @@ geysermc : https://ci.rtm516.co.uk/job/GeyserAndroid/job/master/
 minecraft pocket edition
 
 vous avez aussi besoin d'un compte java de minecraft (pc)
+-----------------------------------------------------------------------------
