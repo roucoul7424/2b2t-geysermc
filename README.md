@@ -3,9 +3,9 @@ real 2b2t server on mcpe
 
 application needed:
 
-Termux
-Geysermc app : https://ci.rtm516.co.uk/job/GeyserAndroid/job/master/
-minecraft pockect edition
+-Termux
+-Geysermc app : https://ci.rtm516.co.uk/job/GeyserAndroid/job/master/
+-minecraft pockect edition
 
 you also need a java account of minecraft (pc account)
 -----------------------------------------------------------------------------
